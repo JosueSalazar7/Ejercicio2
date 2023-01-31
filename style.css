@@ -1,0 +1,34 @@
+/* Formas de enlazar HTML y CSS */
+body {
+    background: white;
+}
+p.titulo1,p.parrafo  {
+    background: teal;
+    text-align: center;
+    color: white;
+}
+p.titulo2, p.titulo3,p.titulo4 {
+    background: orange;
+    text-align: right;
+    color: black;
+    font-size: 30px;
+}
+p.titulo5,p.titulo7{
+    background: violet;
+    text-align: left;
+    color: white;
+    font-size: 25px;
+}
+h6{
+    background: blue;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+p.titulo8{
+    background: red;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    text-decoration: line-through;
+}
